@@ -1,3 +1,8 @@
+---
+layout: post
+title: shadowsocks+SwitchyOmega
+---
+{% include JB/setup %}
 #shadowsocks+SwitchyOmega
 ## 1.安装shadowsocks(ss)
 ```
